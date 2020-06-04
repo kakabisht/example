@@ -1,3 +1,4 @@
 # example
 
-hlloe
+hello
+# the spelling of hello was wrong
